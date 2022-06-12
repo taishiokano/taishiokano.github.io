@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computational Analysis and Public Policy, University of Chicago, 2021-present
+* M.S. in Technology Management for Innovation, the University of Tokyo, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ministry of the Environment (MOE), Government of Japan
+  * 2020-2021: Chief Administrator, Environment Policy Division, Hokkaido Environment Office
+  * 2018-2020: Section Chief, Director’s office for International Strategy on Climate Change, Global Environment Bureau
+  * 2016-2018: Technical Officer, Climate Change Projects Office, Global Environment Bureau
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Japanese(Native), English(fluent)
+* Computer Science
+  * Python (scikit-learn, pytorch, sqlite3, anaconda, flask, dash, django)
+  * R (dplyr, purrr, ggplot2, lubridate, readr, tidyr, stringr, tibble, rsqlite, dbi, rmarkdown)
+  * SQL (PostgreSQL, SQLite, MySQL)
+  * Git, Shell, HTML, CSS, Java Script, Dart (flutter), Ruby (Ruby on Rails), VBA, Latex
 
 Publications
 ======
