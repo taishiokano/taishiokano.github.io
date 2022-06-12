@@ -32,22 +32,22 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* OKANO, T; International Trends and Japanese Policies on Climate Change. The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan” Monthly Journal (2017)
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+* ASEAN Senior Level Workshop on Clean Air, Health and Climate. Manila, Philippines (Jul 24-25, 2019)
+*	Japanese-German Expert Meeting “Perspectives on Sustainable Mobility.” Yokohama, Japan (Jun 19, 2018)
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
